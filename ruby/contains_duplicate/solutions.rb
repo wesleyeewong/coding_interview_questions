@@ -1,3 +1,4 @@
+# Problem: https://leetcode.com/problems/contains-duplicate/
 # Time: O(n), pass through array once
 # Space: O(n), store num once each
 def contains_duplicate_set(nums)
